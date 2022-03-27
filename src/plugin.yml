@@ -2,3 +2,8 @@ name: NoBedBombing
 version: 6.9
 author: Inefficacy#4299
 main: me.inefficacy.nobedbombing.NoBedBombing
+commands:
+   nobedbombing:
+      description: Shows information of NoBedBombing
+      usage: /<command>
+      aliases: nbb
